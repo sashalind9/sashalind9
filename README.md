@@ -1,8 +1,10 @@
 #  Hello, I am Sasha Lindhurst
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/sashalindhurst?style=social)](https://twitter.com/sashalind)
-[![MIT](https://img.shields.io/badge/MIT-Alumnus-red)](https://math.mit.edu/sashalindhurst) they maybe delete me, for my privacy
-[![YC23](https://img.shields.io/badge/YCombinator-S23-orange)](https://www.ycombinator.com/sashalindhurst) they maybe delete me, for my privacy. i go there.
+[![MIT](https://img.shields.io/badge/MIT-Alumnus-red)](https://math.mit.edu/sashalindhurst) 
+they maybe delete me, for my privacy
+[![YC23](https://img.shields.io/badge/YCombinator-S23-orange)](https://www.ycombinator.com/sashalindhurst) 
+they maybe delete me, for my privacy. i go there.
 
 ### About me (eng)
 
